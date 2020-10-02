@@ -10,15 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ayos_candy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ayos_candy_front_landscape.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_27" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="First_device" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -56,9 +62,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_27" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-26T03:28:21.005Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
@@ -212,7 +219,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -226,6 +235,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final stage" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="205" y="202" key="#app" timestamp="1601292083775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="205" y="202" key="#app/0.0.1920.1080@0.0.1920.1080" timestamp="1601292083775" />
     <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601095042259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -238,33 +251,44 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601095929071" />
-    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601089566863">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1061" y="226" key="FileChooserDialogImpl" timestamp="1601483914946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1061" y="226" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601483914946" />
+    <state width="448" height="280" key="GridCell.Tab.0.bottom" timestamp="1601296805573">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
-    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1601089566863">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="448" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601296805573" />
+    <state width="448" height="280" key="GridCell.Tab.0.center" timestamp="1601296805573">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
-    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1601089566863">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="448" height="280" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601296805573" />
+    <state width="448" height="280" key="GridCell.Tab.0.left" timestamp="1601296805572">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
-    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1601089566863">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="448" height="280" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601296805572" />
+    <state width="448" height="280" key="GridCell.Tab.0.right" timestamp="1601296805573">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
-    <state x="174" y="6" key="SettingsEditor" timestamp="1601090884295">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="448" height="280" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601296805573" />
+    <state x="860" y="163" key="SettingsEditor" timestamp="1601548811404">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="174" y="6" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601090884295" />
-    <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601088779049">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="860" y="163" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1601548811404" />
+    <state x="141" y="141" width="1611" height="743" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601536296756">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1601088779049" />
-    <state x="349" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601083345617">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="141" y="141" width="1611" height="743" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601536296756" />
+    <state x="491" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1601624859071">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="349" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083345617" />
+    <state x="491" y="264" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601624859071" />
   </component>
 </project>
